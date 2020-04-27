@@ -1,0 +1,9 @@
+{
+  "add_emp":{"case_name":"添加员工","username":"你爸爸001","mobile":"13347404546","http_code":"200","success":"true","code":"10000","message":"操作成功"},
+
+  "query_emp":{"case_name":"查询员工","http_code":"200","success":"true","code":"10000","message":"操作成功"},
+
+  "modify_emp":{"case_name":"修改员工","username":"new_Tom","http_code":"200","success":"true","code":"10000","message":"操作成功"},
+
+  "delete_emp":{"case_name":"删除员工","http_code":"200","success":"true","code":"10000","message":"操作成功"}
+}
